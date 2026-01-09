@@ -1,0 +1,120 @@
+machine compensation                                                  :0001:
+LATHE_DRILLING                                                        :0002:
+LATHE_PROFILING                                                       :0003:
+LATHE_ROUGHING                                                        :0004:
+LATHE_GROOVING                                                        :0005:
+LATHE_THREADING                                                       :0006:
+LATHE_MISC                                                            :0007:
+LATHE_CUTOFF                                                          :0008:
+Bar Puller                                                            :0009:
+Post Program Stop                                                     :0010:
+Machine Name                                                          :0011:
+                                                                      :0012:
+Controller Type                                                       :0013:
+                                                                      :0014:
+Traverse Rate                                                         :0015:
+                                                                      :0016:
+System License Number                                                 :0017:
+                                                                      :0018:
+System License Expiration                                             :0019:
+                                                                      :0020:
+Program number                                                        :0021:
+ENTER Program number                                                  :0022:
+Material                                                              :0023:
+ENTER Material Type                                                   :0024:
+Z Preset Rear Main                                                    :0025:
+ENTER Z Preset Rear Main                                              :0026:
+X Preset Rear Main                                                    :0027:
+ENTER X Preset Rear Main                                              :0028:
+Maximum RPM                                                           :0029:
+ENTER Maximum RPM                                                     :0030:
+Program Point                                                         :0031:
+SELECT Program Point                                                  :0032:
+Tool Nose Center                                                      :0033:
+Tool Nose Tip                                                         :0034:
+Absolute Incremental                                                  :0035:
+SELECT Absolute Incremental                                           :0036:
+Absolute                                                              :0037:
+Incremental                                                           :0038:
+Coolant                                                               :0039:
+SELECT Coolant                                                        :0040:
+On                                                                    :0041:
+Off                                                                   :0042:
+Spindle Range                                                         :0043:
+ENTER Spindle Range                                                   :0044:
+Work Coordinate 54 - 59                                               :0045:
+ENTER Work Coordinate 54 - 59                                         :0046:
+Drilling Feedrate                                                     :0047:
+ENTER Drilling Feedrate                                               :0048:
+Tenthousandt Peck Depth                                               :0049:
+ENTER Tenthousandt Peck Depth                                         :0050:
+Compensation                                                          :0051:
+SELECT Compensation                                                   :0052:
+On                                                                    :0053:
+Off                                                                   :0054:
+Left                                                                  :0055:
+Right                                                                 :0056:
+Machine Path type                                                     :0057:
+SELECT Machine Path type                                              :0058:
+Offset Path                                                           :0059:
+Part Boundary                                                         :0060:
+Bar Puller X Rapid                                                    :0061:
+ENTER Bar Puller X Rapid                                              :0062:
+Bar Puller Z Rapid                                                    :0063:
+ENTER Bar Puller Z Rapid                                              :0064:
+Bar Puller Z Depth                                                    :0065:
+ENTER Bar Puller Z Depth                                              :0066:
+Bar Puller Z Pullout                                                  :0067:
+ENTER Bar Puller Z Pullout                                            :0068:
+Bar Puller Feedrate                                                   :0069:
+ENTER Bar Puller Feedrate                                             :0070:
+Bar Puller Tool                                                       :0071:
+ENTER Bar Puller Tool                                                 :0072:
+Program/Optional Stop                                                 :0073:
+SELECT Program/Optional Stop                                          :0074:
+Program Stop                                                          :0075:
+Optional Stop                                                         :0076:
+X Gauge Length                                                        :0077:
+ENTER X Gauge Length                                                  :0078:
+Z Gauge Length                                                        :0079:
+ENTER Z Gauge Length                                                  :0080:
+Z Preset Front Main                                                   :0081:
+ENTER Z Preset Front Main                                             :0082:
+X Preset Front Main                                                   :0083:
+ENTER X Preset Front Main                                             :0084:
+Z Preset Front2                                                       :0085:
+ENTER Z Preset Front2                                                 :0086:
+X Preset Front2                                                       :0087:
+ENTER X Preset Front2                                                 :0088:
+Z Preset Rear2                                                        :0089:
+ENTER Z Preset Rear2                                                  :0090:
+X Preset Rear2                                                        :0091:
+ENTER X Preset Rear2                                                  :0092:
+Z Preset Front Sub                                                    :0093:
+ENTER Z Preset Front Sub                                              :0094:
+X Preset Front Sub                                                    :0095:
+ENTER X Preset Front Sub                                              :0096:
+Z Preset Rear Sub                                                     :0097:
+ENTER Z Preset Rear Sub                                               :0098:
+X Preset Rear Sub                                                     :0099:
+ENTER X Preset Rear Sub                                               :0100:
+Z Preset Front2 Sub                                                   :0101:
+ENTER Z Preset Front2 Sub                                             :0102:
+X Preset Front2 Sub                                                   :0103:
+ENTER X Preset Front2 Sub                                             :0104:
+Z Preset Rear2 Sub                                                    :0105:
+ENTER Z Preset Rear2 Sub                                              :0106:
+X Preset Rear2 Sub                                                    :0107:
+ENTER X Preset Rear2 Sub                                              :0108:
+Sub Work Coordinate 0 - 6                                             :0109:
+ENTER Sub Work Coordinate 0 - 60                                      :0110:
+|(|MACHINE=                                                           :0111:
+|)                                                                    :0112:
+|(|CONTROLLER=                                                        :0113:
+|)                                                                    :0114:
+|(                                                                    :0115:
+|)                                                                    :0116:
+|(|PROGRAM|NUMBER=                                                    :0117:
+|)                                                                    :0118:
+|(|MATERIAL=                                                          :0119:
+|)                                                                    :0120:

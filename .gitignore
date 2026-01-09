@@ -1,0 +1,5 @@
+# Backup files
+*.bak
+
+# Large python distribution
+tools/python.zip
